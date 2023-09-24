@@ -10,10 +10,6 @@ The magic of this project lies on modifying the host file within your computer t
 
 Getting started
 Well to get started with this project just clone the repository and edit the host file location depending on the OS your using.
-
-    $-> git clone https://github.com/Kalebu/Website-blocker-python
-    $-> cd Website-blocker-python
-    $ Website-blocker-python ->
 Adding sites to block + Editing host files
 Now open the app.py and then go to line 4 with variable site_to_block and you can add the sites you would like to block during work time
 
